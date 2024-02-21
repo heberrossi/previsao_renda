@@ -1,7 +1,7 @@
 # Previsao de Renda
 
+Projeto desenvolvido pelo streamlit
 
+https://github.com/heberrossi/previsao_renda/assets/137964988/ec60171b-5bf3-4250-a90e-5b3b61032a54
 
-
-https://github.com/heberrossi/previsao_renda/assets/137964988/26141732-558e-46f1-bdb7-92ca4f0317e0
 
